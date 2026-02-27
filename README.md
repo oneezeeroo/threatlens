@@ -1,6 +1,6 @@
 # ThreatLens — CVE Risk Intelligence Dashboard
 
-A modern, production-quality cybersecurity dashboard for tracking, analyzing, and reporting CVE vulnerabilities. Built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**, integrating the **NVD CVE API 2.0** for real-time vulnerability data.
+A cybersecurity dashboard for tracking, analyzing, and reporting CVE vulnerabilities. Built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**, integrating the **NVD CVE API 2.0** for real-time vulnerability data.
 
 > ⚠️ This project uses client-side storage (localStorage) for now. Supabase integration for persistent backend storage and authentication will be added in a future phase.
 
